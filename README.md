@@ -61,7 +61,7 @@ An update is kept when all of this holds, and rolled back when it does not.
 - `pocket-id.service` is active.
 - Port 1411 answers at `/healthz`.
 
-Manifest version 8, built with nixpkgs `nixos-unstable`. Runs on [homelab-ngx](https://github.com/homelab-ngx/homelab-ngx).
+Manifest version 9, built with nixpkgs `nixos-unstable`. Runs on [homelab-ngx](https://github.com/homelab-ngx/homelab-ngx).
 
 <!-- manifest:end -->
 
